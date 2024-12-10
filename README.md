@@ -1,4 +1,4 @@
-# Cuckoo Eggs Similarity Evaluation
+# Cuckoo Eggs Similarity Evaluation (in progress)
 This repository contains an implementation for analyzing the similarity of cuckoo eggs to those of their host species using a deep learning-based approach. The project is designed to compute and compare image similarities, leveraging Siamese networks for accurate and interpretable predictions.
 ## Objective
 The primary goal of this project is to evaluate the similarity between cuckoo eggs and host eggs to understand mimicry patterns. The approach involves feature extraction and comparison using a Siamese network and feature extraction by different NN.
